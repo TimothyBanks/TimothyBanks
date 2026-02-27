@@ -111,20 +111,7 @@ Known for:
 ## **Chromalyzer — Lead Software Engineer**  
 **2013 – 2014**  
 - Built 2D/3D color-analysis system w/ Lab, XYZ, HSV, RGB conversions.  
-- Added palette-matching algorithms and coverage-optimization tools.
-
----
-
-## **Photosphere — Co-Founder & Lead Engineer**  
-**2002 – 2004**  
-- Built early photo-based room visualization engine supporting paint, flooring, and lighting changes.  
-- Acquired by Chameleon Power.
-
----
-
-## **SolutionPoint — Software Engineer**  
-**1999 – 2002**  
-- Built Web 2.0 applications using ASP.NET, JavaScript, and C++.  
+- Added palette-matching algorithms and coverage-optimization tools. 
 
 ---
 
@@ -137,6 +124,19 @@ Known for:
 - Initiated migration from **Windows CE → Android**, solving major platform limitations.  
 - Built Android mapping SDK outperforming ESRI's mobile SDK.  
 - Contributed to ComBAT, Spartan, TiGR, TWV.
+
+---
+
+## **Photosphere — Co-Founder & Lead Engineer**  
+**2002 – 2004**  
+- Built early photo-based room visualization engine supporting paint, flooring, and lighting changes.  
+- Acquired by Chameleon Power.
+
+---
+
+## **SolutionPoint — Software Engineer**  
+**1999 – 2002**  
+- Built Web 2.0 applications using ASP.NET, JavaScript, and C++. 
 
 ---
 
