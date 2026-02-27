@@ -64,7 +64,7 @@ Known for:
 - Created **Clang AST-based static analyzers** catching upgrade-breaking contract patterns.  
 - Implemented **WASM gcov/lcov coverage support**, enabling real test coverage for the first time.  
 - Added **WASM VM context switching**, enabling synchronous multi-contract calls.  
-- Built **rapid token-listing oracle** for integration across multiple blockchains.  
+- Built **rapid token-listing oracle** for integration across multiple blockchains. Allowed for chain indexing, transaction creation and signing per on boarded protocol.
 - Ported EOSIO to run **natively on macOS** (completed in one morning).  
 - Reinforced rigorous code-review culture across product and protocol teams.
 
