@@ -153,5 +153,5 @@ C++11–23, C, Python, Java, Rust, LLVM, Clang, WASM, EOSIO, EVM, PBFT, CometBFT
 
 ---
 
-## **ATS KEYWORDS**
+## **KEYWORDS**
 C++ • PBFT • Blockchain • WASM • EOSIO • EVM • Smart Contracts • GIS • UAV • LLVM • Clang • Distributed Systems • Consensus • High-Performance Computing • Protocol Engineering • MPC • Developer Tooling • Raster/Vector • OpenGL
