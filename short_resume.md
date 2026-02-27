@@ -2,7 +2,7 @@
 **Principal Engineer — Blockchain | High-Performance Systems | C++**  
 Charlotte, NC • (260) 445-3389  
 timothyaaronbanks@gmail.com  
-GitHub: <insert> • LinkedIn: <insert>
+[GitHub](https://github.com/TimothyBanks) • [LinkedIn](https://www.linkedin.com/in/timothy-b-8175935b/)
 
 ---
 
