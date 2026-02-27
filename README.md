@@ -208,30 +208,6 @@ Built a professional-grade color-analysis and visualization suite featuring:
 
 ---
 
-# **Photosphere — Co-Founder / Lead Engineer**  
-**2002 – 2004**
-
-### **Early Photographic Visualization Platform**
-Co-founded Photosphere to build an advanced photo-based visualization engine enabling:
-
-- Wall-colors to be changed from an uploaded photo  
-- Flooring materials to be swapped (wood, carpet, tile)  
-- Lighting conditions to be simulated (incandescent, fluorescent, daylight progressions)
-
-### **Acquired by Chameleon Power**
-Technology became the basis for Chameleon Power’s visualization suite used by major paint and construction brands.
-
----
-
-# **SolutionPoint — Software Engineer**  
-**1999 – 2002**
-
-### **Web 2.0 Applications**
-- Built dynamic ASP.NET, JavaScript, and C++ applications during early adoption of interactive "Web 2.0" design.  
-- Developed data-driven architectures, UI components, and workflow systems for enterprise customers.
-
----
-
 # **General Dynamics — Staff Software Engineer**  
 **2004 – 2012**
 
@@ -297,6 +273,30 @@ Work spanned:
 
 ---
 
+# **Photosphere — Co-Founder / Lead Engineer**  
+**2002 – 2004**
+
+### **Early Photographic Visualization Platform**
+Co-founded Photosphere to build an advanced photo-based visualization engine enabling:
+
+- Wall-colors to be changed from an uploaded photo  
+- Flooring materials to be swapped (wood, carpet, tile)  
+- Lighting conditions to be simulated (incandescent, fluorescent, daylight progressions)
+
+### **Acquired by Chameleon Power**
+Technology became the basis for Chameleon Power’s visualization suite used by major paint and construction brands.
+
+---
+
+# **SolutionPoint — Software Engineer**  
+**1999 – 2002**
+
+### **Web 2.0 Applications**
+- Built dynamic ASP.NET, JavaScript, and C++ applications during early adoption of interactive "Web 2.0" design.  
+- Developed data-driven architectures, UI components, and workflow systems for enterprise customers.
+
+---
+
 # **TECHNOLOGIES**
 **Languages & Systems:**  
 C++11/14/17/20/23, C, Python, Java, Rust  
@@ -318,5 +318,5 @@ Hardhat testing framework integration, Android architecture, iOS streaming, UAV 
 
 ---
 
-# **ATS KEYWORDS**
+# **KEYWORDS**
 C++11 • C++14 • C++17 • C++20 • C++23 • Modern C++ • C • Python • Java • Rust • Blockchain • Protocol Engineering • PBFT • Autobahn • CometBFT • Concord-BFT • WASM • EOSIO • EVM • Solidity Integration • Smart Contracts • MPC Signing • Consensus Algorithms • Deterministic Execution • RocksDB • LLVM • Clang • AST • Static Analysis • WASM Coverage • gcov • lcov • Developer Tooling • SQL→KV • Oracle Networks • Blockchain Indexing • High-Performance Computing • Distributed Systems • Runtime Architecture • Virtual Machines • GIS • UAV Streaming • Raster/Vector • OpenGL • Debugging • Performance Optimization • Memory Management • Multithreading • Real-Time Systems • Defense Software • Tactical Systems • Android • iOS • Edge Compute • IoT • SCIF Environments • Cloud Platforms • Kubernetes • Docker • cmake • Linux • macOS
