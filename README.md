@@ -40,7 +40,8 @@ Recognized for:
 - **Patent-pending SQL→KV semantic mapper:** SQL-style access to blockchain KV state; eliminated integration barriers.  
 - **Oracle networks:**  
   - Somnia — decentralized HTTP-outcall + consensus validation  
-  - Bullish — rapid listing oracle minimizing infrastructure debt  
+  - Bullish — rapid listing oracle minimizing infrastructure debt.
+              Allowed for chain indexing, transaction creation and signing per on boarded protocol.  
 
 ### **Developer Productivity & Tooling**
 - **WASM gcov/lcov coverage system:** Added true coverage metrics to WASM contracts — solved after multiple engineers failed.  
