@@ -40,6 +40,13 @@ Known for:
 
 ---
 
+# **EDUCATION**
+
+**Purdue University**  
+- **M.S. Mathematics**  
+- **B.S. Computer Science**  
+- **B.S. Information Systems**
+
 # **EXPERIENCE**
 
 ---
@@ -137,14 +144,6 @@ Known for:
 ## **SolutionPoint — Software Engineer**  
 **1999 – 2002**  
 - Built Web 2.0 applications using ASP.NET, JavaScript, and C++. 
-
----
-
-## **EDUCATION**
-**Purdue University**  
-- M.S. Mathematics  
-- B.S. Computer Science  
-- B.S. Information Systems
 
 ---
 
