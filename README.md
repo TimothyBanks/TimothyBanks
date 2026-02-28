@@ -57,6 +57,13 @@ Recognized for:
 
 ---
 
+# **EDUCATION**
+
+**Purdue University**  
+- **M.S. Mathematics**  
+- **B.S. Computer Science**  
+- **B.S. Information Systems**
+
 # **EXPERIENCE**
 
 ---
@@ -263,13 +270,6 @@ Work spanned:
 - Tactical overlays  
 - Data-exchange formats  
 - Field tests and validation with military units  
-
-# **EDUCATION**
-
-**Purdue University**  
-- **M.S. Mathematics**  
-- **B.S. Computer Science**  
-- **B.S. Information Systems**
 
 ---
 
