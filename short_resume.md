@@ -61,7 +61,7 @@ Known for:
 
 ---
 
-## **Bullish — Principal Software Engineer, Custody**  
+## **Bullish (Block.one) — Principal Software Engineer, Custody**  
 **2023 – 2024**  
 - Led custody architecture across MPC signing, WASM execution, smart contracts, cross-chain integrations, and state machines.  
 - Delivered custody system under **fixed funding-dependent launch deadline**, despite shrinking team size.  
@@ -77,7 +77,7 @@ Known for:
 
 ---
 
-## **Bullish — Lead Software Engineer, Smart Contracts**  
+## **Bullish (Block.one) — Lead Software Engineer, Smart Contracts**  
 **2021 – 2023**  
 - Implemented custody-critical smart contracts in C++/WASM.  
 - Led team of five to deliver the 2022 Bullish Exchange launch.  
