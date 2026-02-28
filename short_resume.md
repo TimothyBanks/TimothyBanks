@@ -153,4 +153,4 @@ C++11–23, C, Python, Java, Rust, LLVM, Clang, WASM, EOSIO, EVM, PBFT, CometBFT
 ---
 
 ## **KEYWORDS**
-C++ • PBFT • Blockchain • WASM • EOSIO • EVM • Smart Contracts • GIS • UAV • LLVM • Clang • Distributed Systems • Consensus • High-Performance Computing • Protocol Engineering • MPC • Developer Tooling • Raster/Vector • OpenGL
+C++11 • C++14 • C++17 • C++20 • C++23 • Modern C++ • C • Python • Java • Rust • Blockchain • Protocol Engineering • PBFT • Autobahn • CometBFT • Concord-BFT • WASM • EOSIO • EVM • Solidity Integration • Smart Contracts • MPC Signing • Consensus Algorithms • Deterministic Execution • RocksDB • LLVM • Clang • AST • Static Analysis • WASM Coverage • gcov • lcov • Developer Tooling • SQL→KV • Oracle Networks • Blockchain Indexing • High-Performance Computing • Distributed Systems • Runtime Architecture • Virtual Machines • GIS • UAV Streaming • Raster/Vector • OpenGL • Debugging • Performance Optimization • Memory Management • Multithreading • Real-Time Systems • Defense Software • Tactical Systems • Android • iOS • Edge Compute • IoT • SCIF Environments • Cloud Platforms • Kubernetes • Docker • cmake • Linux • macOS
