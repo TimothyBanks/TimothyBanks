@@ -89,7 +89,7 @@ Recognized for:
 
 ---
 
-# **Bullish — Principal Software Engineer, Custody**  
+# **Bullish (Block.one) — Principal Software Engineer, Custody**  
 **2023 – 2024**
 
 ### **Custody Architecture Ownership**
@@ -120,7 +120,7 @@ Delivered a full redesign of the custody contract stack (C++ targeting EOSIO/WAS
 
 ---
 
-# **Bullish — Lead Software Engineer, Smart Contracts**  
+# **Bullish (Block.one) — Lead Software Engineer, Smart Contracts**  
 **2021 – 2023**
 
 - One of the first engineers implementing custody smart contracts in C++/WASM.  
