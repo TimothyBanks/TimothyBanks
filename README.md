@@ -68,6 +68,13 @@ Recognized for:
 
 ---
 
+# **Charter Labs — Founder**  
+**2026 – Present**
+
+Designing and building Charter, a crypto-native coordination network that encodes institutional custody governance as deterministic, consensus-visible protocol state. Architecting a jurisdiction-aware, permissioned BFT blockchain that standardizes approvals, limits, compliance gating, and audit evidence across regulated digital asset workflows. Responsible for protocol design, validator operating model, token-aligned incentive structure, deterministic execution semantics, state machine architecture, and production hardening roadmap. Charter externalizes governance patterns proven in live custody systems into a neutral, multi-operator network designed to become the institutional control layer for digital assets.
+
+---
+
 # **Somnia Protocol — Principal Protocol Engineer**  
 **2025 – Present**
 
