@@ -192,7 +192,7 @@ Delivered a full redesign of the custody contract stack (C++ targeting EOSIO/WAS
 ---
 
 # **Chameleon Power — Lead Software Engineer**  
-**2013 – 2014**
+**2012 – 2014**
 
 ### **C++ Visualization Engine (8× Performance Boost)**
 - Completely rewrote the company's visualization engine in modern C++.  
@@ -209,7 +209,7 @@ Delivered a full redesign of the custody contract stack (C++ targeting EOSIO/WAS
 ---
 
 # **Chromalyzer — Lead Software Engineer**  
-**2013 – 2014**
+**2012 – 2014**
 
 ### **Color-Science Engine**
 Built a professional-grade color-analysis and visualization suite featuring:
