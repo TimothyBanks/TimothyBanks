@@ -76,7 +76,7 @@ Designing and building Charter, a crypto-native coordination network that encode
 ---
 
 # **Somnia Protocol — Principal Protocol Engineer**  
-**2025 – Present**
+**2025 – 2026**
 
 ### **Autobahn PBFT Consensus & Protocol Architecture**
 - Principal engineer responsible for the protocol execution environment, validator rules, consensus message flows, block finality paths, and performance characteristics.  
@@ -170,7 +170,7 @@ Delivered a full redesign of the custody contract stack (C++ targeting EOSIO/WAS
 ---
 
 # **ESRI — Principal Software Engineer**  
-**2013 – 2019**
+**2014 – 2019**
 
 ### **C++ Runtime SDK Architecture**
 - First engineer on the modern C++ Runtime SDK rewrite, replacing legacy code with a cross-platform, modular architecture supporting Windows, Linux, macOS, Android, iOS, and Qt.
