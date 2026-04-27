@@ -60,7 +60,7 @@ Designing and building Charter, a crypto-native coordination network that encode
 ---
 
 ## **Somnia Protocol — Principal Protocol Engineer**  
-**2025 – Present**  
+**2025 – 2026**  
 - Principal engineer for C++ EVM-compatible L1 blockchain using Autobahn PBFT consensus.  
 - Added **full Hardhat cheatcode RPC support**, enabling protocol-level test compatibility with >7,000 Hardhat tests.  
 - Designed decentralized **HTTP-outcall oracle network** performing consensus-verified off-chain requests for smart contracts.  
@@ -109,7 +109,7 @@ Designing and building Charter, a crypto-native coordination network that encode
 ---
 
 ## **ESRI — Principal Software Engineer**  
-**2013 – 2019**  
+**2014 – 2019**  
 - First engineer on C++ runtime SDK rewrite.  
 - Built **LLVM/Clang AST binding generator** for Java, Swift, .NET, Python, Obj-C, Qt.  
 - Designed async operation models, rendering abstractions, and data-layer architecture.
@@ -117,14 +117,14 @@ Designing and building Charter, a crypto-native coordination network that encode
 ---
 
 ## **Chameleon Power — Lead Software Engineer**  
-**2013 – 2014**  
+**2012 – 2014**  
 - Rewrote visualization engine in modern C++ → **8× performance improvement**.  
 - Added interactive room recoloring, flooring changes, tile visualization, and lighting simulation.
 
 ---
 
 ## **Chromalyzer — Lead Software Engineer**  
-**2013 – 2014**  
+**2012 – 2014**  
 - Built 2D/3D color-analysis system w/ Lab, XYZ, HSV, RGB conversions.  
 - Added palette-matching algorithms and coverage-optimization tools. 
 
